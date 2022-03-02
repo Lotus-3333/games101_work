@@ -1,0 +1,3 @@
+C:/Users/xintai/Desktop/games101/Assignment1/Assignment1/build/CMakeFiles/Rasterizer.dir
+C:/Users/xintai/Desktop/games101/Assignment1/Assignment1/build/CMakeFiles/edit_cache.dir
+C:/Users/xintai/Desktop/games101/Assignment1/Assignment1/build/CMakeFiles/rebuild_cache.dir
